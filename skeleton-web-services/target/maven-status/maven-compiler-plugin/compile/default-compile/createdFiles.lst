@@ -1,0 +1,14 @@
+org\learning\web\repository\GreetingRepository.class
+org\learning\ws\web\api\GreetingController.class
+org\learning\model\Greeting.class
+org\learning\ws\util\AsyncResponse.class
+org\learning\ws\web\api\BaseController.class
+org\learning\Application.class
+org\learning\ws\web\ExceptionAttributes.class
+org\learning\ws\web\service\GreetingService.class
+org\learning\ws\web\service\GreetingServiceBean.class
+org\learning\ws\actuators\health\GreetingHealthIndicator.class
+org\learning\ws\web\service\EmailServiceBean.class
+org\learning\ws\web\DefaultExceptionAttributes.class
+org\learning\ws\batch\GreetingBatchBean.class
+org\learning\ws\web\service\EmailService.class

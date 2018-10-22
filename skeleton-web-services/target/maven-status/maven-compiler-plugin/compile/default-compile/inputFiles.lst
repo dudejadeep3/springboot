@@ -1,0 +1,14 @@
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\service\GreetingServiceBean.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\model\Greeting.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\web\repository\GreetingRepository.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\Application.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\service\GreetingService.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\util\AsyncResponse.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\batch\GreetingBatchBean.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\service\EmailService.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\actuators\health\GreetingHealthIndicator.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\ExceptionAttributes.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\api\GreetingController.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\api\BaseController.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\service\EmailServiceBean.java
+C:\Study\Codespace\SpringBoot\skeleton-web-services\src\main\java\org\learning\ws\web\DefaultExceptionAttributes.java

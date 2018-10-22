@@ -1,0 +1,6 @@
+org\learning\ws\web\api\GreetingControllerTest.class
+org\learning\ws\service\GreetingServiceTest.class
+org\learning\ws\web\api\GreetingControllerMocksTest$1.class
+org\learning\ws\web\api\GreetingControllerMocksTest.class
+org\learning\ws\AbstractControllerTest.class
+org\learning\ws\AbstractTest.class

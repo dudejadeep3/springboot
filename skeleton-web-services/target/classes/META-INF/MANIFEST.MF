@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: skeleton-web-services
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: DDudeja
+Implementation-Vendor-Id: org.learning
+Build-Jdk: 1.8.0
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
